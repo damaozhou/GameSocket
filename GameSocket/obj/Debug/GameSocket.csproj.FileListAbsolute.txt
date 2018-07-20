@@ -1,0 +1,12 @@
+E:\dvvss获取\GameSocket\bin\Debug\GameSocket.dll
+E:\dvvss获取\GameSocket\bin\Debug\GameSocket.pdb
+E:\dvvss获取\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+E:\dvvss获取\GameSocket\obj\Debug\GameSocket.csproj.CoreCompileInputs.cache
+E:\dvvss获取\GameSocket\obj\Debug\GameSocket.dll
+E:\dvvss获取\GameSocket\obj\Debug\GameSocket.pdb
+C:\Users\Administrator\source\repos\jfsocket\GameSocket\bin\Debug\GameSocket.dll
+C:\Users\Administrator\source\repos\jfsocket\GameSocket\bin\Debug\GameSocket.pdb
+C:\Users\Administrator\source\repos\jfsocket\GameSocket\obj\Debug\GameSocket.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\jfsocket\GameSocket\obj\Debug\GameSocket.dll
+C:\Users\Administrator\source\repos\jfsocket\GameSocket\obj\Debug\GameSocket.pdb
+C:\Users\Administrator\source\repos\jfsocket\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache

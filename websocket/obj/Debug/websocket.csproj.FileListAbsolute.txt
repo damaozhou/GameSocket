@@ -1,0 +1,9 @@
+c:\users\administrator\source\repos\jfsocket\websocket\bin\Debug\websocket.exe.config
+c:\users\administrator\source\repos\jfsocket\websocket\bin\Debug\websocket.exe
+c:\users\administrator\source\repos\jfsocket\websocket\bin\Debug\websocket.pdb
+c:\users\administrator\source\repos\jfsocket\websocket\bin\Debug\GameSocket.dll
+c:\users\administrator\source\repos\jfsocket\websocket\bin\Debug\GameSocket.pdb
+c:\users\administrator\source\repos\jfsocket\websocket\obj\Debug\websocket.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\jfsocket\websocket\obj\Debug\websocket.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\jfsocket\websocket\obj\Debug\websocket.exe
+c:\users\administrator\source\repos\jfsocket\websocket\obj\Debug\websocket.pdb

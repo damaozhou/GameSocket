@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\jfsocket\nativeSocket\bin\Debug\nativeSocket.exe
+c:\users\administrator\source\repos\jfsocket\nativeSocket\bin\Debug\nativeSocket.pdb
+c:\users\administrator\source\repos\jfsocket\nativeSocket\bin\Debug\nativeSocket.exe.config
+c:\users\administrator\source\repos\jfsocket\nativeSocket\obj\Debug\nativeSocket.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\jfsocket\nativeSocket\obj\Debug\nativeSocket.exe
+c:\users\administrator\source\repos\jfsocket\nativeSocket\obj\Debug\nativeSocket.pdb
+C:\Users\Administrator\source\repos\jfsocket\nativeSocket\obj\Debug\nativeSocket.csprojResolveAssemblyReference.cache

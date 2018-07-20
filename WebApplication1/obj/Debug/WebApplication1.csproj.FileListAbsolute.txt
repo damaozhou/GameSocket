@@ -1,0 +1,8 @@
+c:\users\administrator\source\repos\jfsocket\WebApplication1\bin\WebApplication1.dll
+c:\users\administrator\source\repos\jfsocket\WebApplication1\bin\WebApplication1.pdb
+c:\users\administrator\source\repos\jfsocket\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\source\repos\jfsocket\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\source\repos\jfsocket\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\jfsocket\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\jfsocket\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\administrator\source\repos\jfsocket\WebApplication1\obj\Debug\WebApplication1.pdb
